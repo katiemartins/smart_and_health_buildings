@@ -1,2 +1,5 @@
-# smart_and_health_buildings
-Repository for CS 6501
+### Katie Martins 
+
+- Count
+- Paper
+- "Regular" Human
