@@ -1,4 +1,4 @@
-### katmia
+### Katie Martins
 
 - Count
 - Paper
